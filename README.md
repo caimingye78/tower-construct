@@ -6,6 +6,8 @@ Built with [Three.js](https://threejs.org/), [Rapier](https://rapier.rs/) physic
 
 ![AutoErect 建筑施工过程截图](https://raw.githubusercontent.com/caimingye78/tower-construct/master/screenshot.png)
 
+![施工模拟截屏](codex-screenshot.png)
+
 ---
 
 ## ✨ Features
