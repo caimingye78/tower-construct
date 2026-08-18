@@ -4,9 +4,7 @@
 
 Built with [Three.js](https://threejs.org/), [Rapier](https://rapier.rs/) physics engine, and [Vite](https://vitejs.dev/).
 
-![AutoErect 建筑施工过程截图](https://raw.githubusercontent.com/caimingye78/tower-construct/master/screenshot.png)
-
-![施工模拟截屏](https://github.com/caimingye78/tower-construct/raw/master/codex-screenshot.png)
+![施工模拟截屏](https://caimingye78.github.io/tower-construct/codex-screenshot.png)
 
 ---
 
